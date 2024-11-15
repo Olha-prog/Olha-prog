@@ -20,7 +20,3 @@ This is unordered list:
 * [my facebook](https://github.com)
 * [my website](https://github.com)
 * [my telegram](https://github.com)
-<!---
-Olha-prog/Olha-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
